@@ -2,7 +2,7 @@
 
 Trigger audio samples with the Beatstep for a crunchy lo-fi beat.
 
- It's noisey but also really quiet.
+ It's noisy but also really quiet.
 
 This thing plays back lo-fi PCM samples generated using the [high-low tech](http://highlowtech.org/?p=1963) sketch when triggered by a MIDI note. I made some samples for Arduino playback in 2010 and only just remembered/found them.
 
